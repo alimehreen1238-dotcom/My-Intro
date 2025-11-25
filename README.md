@@ -6,25 +6,25 @@ This is my first GitHub repository. It contains my complete personal introductio
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 - 🎓 Currently enrolled in *Software Engineering*
-- 📘 Learning *CISM & DISM* as part of my studies  
-- 🌱 Building my foundations in web development
-- 🎯 Future Goal: Become a *professional Web Developer*
-- 💡 Passionate about creativity, technology, and continuous learning
-- 📍 Based in *Karachi, Pakistan*
+-  Learning *CISM & DISM* as part of my studies  
+-  Building my foundations in web development
+-  Future Goal: Become a *professional Web Developer*
+-  Passionate about creativity, technology, and continuous learning
+-  Based in *Karachi, Pakistan*
 
 ---
 
-### 🎨 My Interests & Hobbies
-- 💻 Coding  
-- 🖌 Graphic Designing  
-- 🎬 Video Editing  
-- 🌐 Exploring IT & new technologies  
+###  My Interests & Hobbies
+-  Coding  
+-  Graphic Designing  
+-  Video Editing  
+-  Exploring IT & new technologies  
 
 ---
 
-### 🔧 Skills & Tools (Learning & Improving)
+###  Skills & Tools (Learning & Improving)
 - *Frontend:* HTML, CSS, JavaScript  
 - *Currently Learning:* CISM, DISM  
 - *Tools:* Git, GitHub  
@@ -39,13 +39,13 @@ This is my first GitHub repository. It contains my complete personal introductio
 
 ---
 
-### 🤝 Let's Connect
-- 🚀 Always learning, creating, and improving  
-- 🌱 Growing step-by-step to become a skilled Web Developer  
+###  Let's Connect
+-  Always learning, creating, and improving  
+-  Growing step-by-step to become a skilled Web Developer  
 
 ---
 
-### ✨ Quote I Believe In
+###  Quote I Believe In
 *“Small progress every day leads to big results.”*
 
 ---
